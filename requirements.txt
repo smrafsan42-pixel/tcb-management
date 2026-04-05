@@ -3,3 +3,7 @@ pandas
 openpyxl
 fpdf
 qrcode
+easyocr
+opencv-python-headless
+Pillow
+numpy
